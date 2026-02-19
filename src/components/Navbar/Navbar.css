@@ -18,6 +18,10 @@
     padding: 0 1rem;
 }
 
+.header .nav-menu a {
+    color: #fff;
+}
+
 .header .navbar img {
     width: 250px;
     height: auto;
